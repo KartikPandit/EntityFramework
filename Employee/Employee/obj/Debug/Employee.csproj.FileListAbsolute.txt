@@ -1,0 +1,12 @@
+C:\Users\yuhub\source\repos\Employee\Employee\obj\Debug\Employee.csproj.CoreCompileInputs.cache
+C:\Users\yuhub\source\repos\Employee\Employee\bin\Debug\Employee.exe.config
+C:\Users\yuhub\source\repos\Employee\Employee\bin\Debug\Employee.exe
+C:\Users\yuhub\source\repos\Employee\Employee\bin\Debug\Employee.pdb
+C:\Users\yuhub\source\repos\Employee\Employee\bin\Debug\EntityFramework.dll
+C:\Users\yuhub\source\repos\Employee\Employee\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\yuhub\source\repos\Employee\Employee\bin\Debug\EntityFramework.xml
+C:\Users\yuhub\source\repos\Employee\Employee\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\yuhub\source\repos\Employee\Employee\obj\Debug\Employee.csproj.CopyComplete
+C:\Users\yuhub\source\repos\Employee\Employee\obj\Debug\Employee.exe
+C:\Users\yuhub\source\repos\Employee\Employee\obj\Debug\Employee.pdb
+C:\Users\yuhub\source\repos\Employee\Employee\obj\Debug\Employee.csprojAssemblyReference.cache
